@@ -16,3 +16,6 @@ the robot is guaranteed to be stuck in a cycle, as each bubble is its own island
 
 The only way to find the end is to have some methodical means of knowing the end's
 direction and creating a path to get there, such as through an Astar pathing algorithm.
+
+## Example
+![Example](example.png "Example Bubble Maze")
